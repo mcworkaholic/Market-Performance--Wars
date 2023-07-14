@@ -4,7 +4,7 @@
 
 
 &nbsp;
-### Abstract by Hassan, Aref, political professor of St. Cloud State University
+### Abstract by Aref Hassan, political professor of St. Cloud State University
 
 &nbsp;
 #### Market performance measures such as broad indexes (Ex, Dow Jones Industrial Average Index: DJIA) are often used as economic and business indicators representing the current market standing or its expected future performance. There are numerous studies examining this relationship and various theories about the strength and nature of this relationship between indexes and the general market and economy. What is rarely studied is the relationship between broad market indexes and outcomes of wars.

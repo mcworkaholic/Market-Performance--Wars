@@ -1,6 +1,6 @@
 # Market-Performance--Wars
 
-### Abstract written by Hassan, Aref
+### Abstract by Hassan, Aref
 
 #### Market performance measures such as broad indexes (Ex, Dow Jones Industrial Average Index: DJI) are often used as economic and business indicators representing the current market standing or its expected future performance. There are numerous studies examining this relationship and various theories about the strength and nature of this relationship between indexes and the general market and economy. What is rarely studied is the relationship between broad market indexes and outcomes of wars.
 

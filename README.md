@@ -15,6 +15,11 @@ during these modern conflicts. If Bigg’s findings hold true, we expect to see 
 #### 
 For this study we looked at the DJIA, S&P500, FTSE100, and FT30 indexes pending available data.
 
+* [DJIA](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
+* [S&P500](https://en.wikipedia.org/wiki/S%26P_500)
+* [FTSE100](https://en.wikipedia.org/wiki/FTSE_100_Index)
+* [FT30](https://en.wikipedia.org/wiki/FT_30)
+
 #
 ### Conflicts
 

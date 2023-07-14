@@ -15,7 +15,12 @@ during these modern conflicts. If Bigg’s findings hold true, we expect to see 
 #### 
 For this study we looked at the DJIA, S&P500, FTSE100, and FT30 indexes pending available data.
 
+#
 ### Conflicts
 
 #### 
 In order from least recent to most, we looked at the Korean War(1950-1953), the Cuban Missile Crisis(1962), the Yom Kippur/Ramadan/Arab-Israeli War(1973), the Falklands War(1982), the First Gulf War(1990-1991), and finally the Iraq/Afghanistan War(2001-2023).
+
+
+&nbsp;
+![timeline](Research%20Data/Misc/timeline.png)

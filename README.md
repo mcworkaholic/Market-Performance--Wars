@@ -8,7 +8,7 @@ In his 2008 book (Wealth, War, & Wisdom), Barton Biggs, renowned Wall Street inv
 
 This study attempts to test Biggs’s theory by examining the performance of the DJI and the Financial Times Stock Exchange 100 indexes during three of the more recent conflicts. This study only intends to see if we can find the same patterns of movement of stock market indexes
 
-during these modern conflicts. If Bigg’s findings hold true, we expect to see market indexes moving upward during these modern wars when their outcomes were still not clear at all. We also expect to see these markets moving upward during the most oblique phases of these modern conflicts. This study, due to its limited scope will not confirm any predictive relationship between markets and wars, it will only supply further insight into a very intriguing and rarely examined topic that was first explored by Barton Biggs fifteen years ago.
+during these modern conflicts. If Bigg’s findings hold true, we expect to see market indexes moving upward during these modern wars when their outcomes were still not clear at all. We also expect to see these markets moving upward during the most oblique phases of these modern conflicts. This study, due to its limited scope will not confirm any predictive relationship between markets and wars, it will only supply further insight into a very intriguing and rarely examined topic that was first explored by Barton Biggs over 50 years ago.
 
 ### Measures
 
